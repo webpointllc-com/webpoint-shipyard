@@ -1,0 +1,7 @@
+services:
+  - type: web
+    runtime: static
+    name: webpoint-shipyard
+    buildCommand: echo "static shipyard — no build step"
+    staticPublishPath: ./public
+    autoDeploy: true
