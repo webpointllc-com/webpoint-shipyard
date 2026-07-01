@@ -13,3 +13,5 @@ Standing deploy lane: push to main -> Render autoDeploy -> live in ~30s.
 ## Pattern
 Mechanism: AUTODEPLOY_VARIABLE (two-repo deploy law, precedent method cloned, precedent untouched).
 Prototype tier only. Production ships from workplace-technologies repos via the promotion gates.
+
+> SUPERSEDED: canonical lane is webpointllc-com/mobile (see its HANDOFF.md). This repo kept as reference.
